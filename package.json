@@ -38,7 +38,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://AlMuhannaMH.github.io/personal-and-professional-page-frontend",
+  "homepage": "http://AlMuhannaMH.github.io/ppp-frontend",
   "devDependencies": {
     "gh-pages": "^2.2.0"
   }
