@@ -1,0 +1,75 @@
+body {
+  text-align: center;
+  background: #f2f2f2;
+  font-size: 0.7em;
+  font-family: 'Open Sans', sans-serif;
+  margin: auto 0;
+  background-image: url('https://cdn.wallpapersafari.com/80/53/Sa4pdq.jpg');
+}
+
+.auth-form {
+  background-color: rgba(214, 206, 206, 0.651);
+  color: black;
+}
+
+.badge {
+  font-size: 190%;
+}
+
+label {
+  color: rgb(37, 37, 37);
+  font-size: 15px;
+  font: sans-serif;
+}
+
+input {
+  border: none;
+}
+
+img {
+  width: 300px;
+  overflow: hidden;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+
+.inner {
+  background-color: rgb(163, 163, 163);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 40%;
+  font: 1em sans-serif;
+  font-size: medium;
+  border: white 50px;
+  margin: auto 0;
+}
+
+button {
+  text-transform: uppercase;
+}
+
+header {
+  background-color: rgb(34, 33, 33);
+  padding: 50px;
+  color: #f2f2f2;
+}
+
+.all-resumes {
+  padding: 5px;
+  background-color: rgb(34, 33, 33);
+}
+
+.welcome {
+  text-align: center;
+  padding: 50px;
+}
+
+.resume {
+  background-color: #f2f2f2;
+}
+
+/* #link{
+  border: 14px;
+  padding: 10px;
+  margin: 6px;} */
