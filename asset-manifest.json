@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ppp-frontend/static/css/main.36a53ea7.chunk.css",
+    "main.js": "/ppp-frontend/static/js/main.e929bdae.chunk.js",
+    "main.js.map": "/ppp-frontend/static/js/main.e929bdae.chunk.js.map",
+    "runtime-main.js": "/ppp-frontend/static/js/runtime-main.c785877e.js",
+    "runtime-main.js.map": "/ppp-frontend/static/js/runtime-main.c785877e.js.map",
+    "static/css/2.de424728.chunk.css": "/ppp-frontend/static/css/2.de424728.chunk.css",
+    "static/js/2.c48405f4.chunk.js": "/ppp-frontend/static/js/2.c48405f4.chunk.js",
+    "static/js/2.c48405f4.chunk.js.map": "/ppp-frontend/static/js/2.c48405f4.chunk.js.map",
+    "index.html": "/ppp-frontend/index.html",
+    "precache-manifest.4fded94856db3cd0312223ee02007f22.js": "/ppp-frontend/precache-manifest.4fded94856db3cd0312223ee02007f22.js",
+    "service-worker.js": "/ppp-frontend/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/ppp-frontend/static/css/2.de424728.chunk.css.map",
+    "static/css/main.36a53ea7.chunk.css.map": "/ppp-frontend/static/css/main.36a53ea7.chunk.css.map",
+    "static/js/2.c48405f4.chunk.js.LICENSE.txt": "/ppp-frontend/static/js/2.c48405f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c785877e.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.c48405f4.chunk.js",
+    "static/css/main.36a53ea7.chunk.css",
+    "static/js/main.e929bdae.chunk.js"
+  ]
+}
